@@ -1,0 +1,10 @@
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/baseline_battery_0_bar_24" android:maxLevel="0"/>
+    <item android:drawable="@drawable/baseline_battery_1_bar_24" android:maxLevel="1"/>
+    <item android:drawable="@drawable/baseline_battery_2_bar_24" android:maxLevel="2"/>
+    <item android:drawable="@drawable/baseline_battery_3_bar_24" android:maxLevel="3"/>
+    <item android:drawable="@drawable/baseline_battery_4_bar_24" android:maxLevel="4"/>
+    <item android:drawable="@drawable/baseline_battery_5_bar_24" android:maxLevel="5"/>
+    <item android:drawable="@drawable/baseline_battery_6_bar_24" android:maxLevel="6"/>
+    <item android:drawable="@drawable/baseline_battery_full_24"  android:maxLevel="7"/>
+</level-list>
